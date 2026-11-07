@@ -51,7 +51,7 @@ DEFAULT_VPNGATE_API = "http://www.vpngate.net/api/iphone/"
 DEFAULT_VPNGATE_MIRROR = (
     "https://raw.githubusercontent.com/fdciabdul/Vpngate-Scraper-API/main/json/data.json"
 )
-DEFAULT_OPTIMAL_API = "https://cf.090227.xyz/ct?ips=6"
+DEFAULT_OPTIMAL_API = ""
 
 # 占位符检测：命中任意一个就认为用户还没配置
 PLACEHOLDER_MARKERS = ("你的", "YOUR_", "YOUR-", "example.com", "yourdomain")
@@ -59,19 +59,19 @@ PLACEHOLDER_MARKERS = ("你的", "YOUR_", "YOUR-", "example.com", "yourdomain")
 # 静态优选域名池（可用 EDGE_HOSTS 整体覆盖）
 DEFAULT_EDGE_HOSTS = [
     "saas.sin.fan:443",
-    "www.mfyx.cn:443",
-    "cf.nyanya.moe:443",
+    "bestcf.030101.xyz:443",
+    "cookiebot.com:443",
     "cf.877774.xyz:443",
-    "cdn.204910.best:443",
-    "cdn.ctn32.us.kg:443",
-    "p.etime.vip:443",
-    "cmcc.vvvv.ee:443",
-    "cfsaas.080112.xyz:443",
-    "cdn.aneko.ink:443",
-    "hk.cf.3666888.xyz:443",
-    "best.hzample.kdns.fr:443",
-    "ctsg.cfyx.aliyun.20237737.xyz:443",
-    "china-unicom.cname.cloudflare.468123.xyz:443",
+    "www.copilot.com:443",
+    "dynadot.com:443",
+    "www.spacex.com:443",
+    "www.broadcom.com:8443",
+    "www.blibli.com:2096",
+    "ip.sb:443",
+    "www.zendesk.com:2087",
+    "mfa.gov.ua:2096",
+    "www.deepl.com:2096",
+    "www.trump.com:443",
 ]
 
 DATA_CENTER_ORG_KEYWORDS = [
