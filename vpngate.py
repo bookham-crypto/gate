@@ -59,19 +59,19 @@ PLACEHOLDER_MARKERS = ("你的", "YOUR_", "YOUR-", "example.com", "yourdomain")
 # 静态优选域名池（可用 EDGE_HOSTS 整体覆盖）
 DEFAULT_EDGE_HOSTS = [
     "saas.sin.fan:443",
-    "bestcf.030101.xyz:443",
+    "cmcc.877774.xyz:443",
     "cookiebot.com:443",
     "cf.877774.xyz:443",
-    "www.copilot.com:443",
-    "dynadot.com:443",
-    "www.spacex.com:443",
-    "www.broadcom.com:8443",
-    "www.blibli.com:2096",
-    "ip.sb:443",
-    "www.zendesk.com:2087",
-    "mfa.gov.ua:2096",
-    "www.deepl.com:2096",
-    "www.trump.com:443",
+    "na.877774.xyz:443",
+    "104.17.128.59:443",
+    "103.238.129.171:443",
+    "nodejs.org:8443",
+    "images.chesscomfiles.com:2096",
+    "104.17.128.59:443",
+    "leawo.org:2087",
+    "s.bookcdn.com:2087",
+    "cloudflare.182682.xyz:443",
+    "104.17.131.133:443",
 ]
 
 DATA_CENTER_ORG_KEYWORDS = [
